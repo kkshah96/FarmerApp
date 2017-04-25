@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a790eec3fa6030c983d437d8315b58499e6e3ff0">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2baa192e006da4eb44b186320c41a3d60b3b94b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_19e4732f768b171caf3a4ed1c4b6575d8b570820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_239ec3dfc787c0219d2ec0de79172c604ed35db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_50e7e949c27af08ec0662185494cdc4fda5f3f35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_5f456d447495b2513a2799c0d32241fe58b239c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53bf4dd07ec7033616c1d309a44d6f28c82cfc8d">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\instant-run_7056903fdb86fa40019ed31b095ee056bf5ee228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_7bfa8f4f5ec150c24d1f2e1888102c3801768e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b7107c1c41bf5c3548f26d2da4b66d629562fc78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_586e4614b5187b87a56cfd89bf02fcb50e1fb130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_d8714933adeed0d07ac10d67cb8db1548be2307b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_2e6661cb57b3db0b1ea6741329ede138a5b8ddff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_25eee22543afd4b230541a1a1841639711fa84a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_b7754504fd42edb31e7d813d18241702dafedea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_0e2aea439cf82be7799f0fb1437201b4555a14a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_98fa9d8899192ad273b171ea15015b4cd1c6ecf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_09e6e18fa11f3c268add4353da153c4430049933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2e241b957f85069859565ca3e317f81a2356a6cf.jar" />
+    </item>
+
+</items>
