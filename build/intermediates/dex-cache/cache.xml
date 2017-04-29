@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="78e73560bc46822708b93ba93a242934c2b5283d">
+        sha1="0144e9b8b72501c4feaf949cc3f7952e430b653f">
         <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2baa192e006da4eb44b186320c41a3d60b3b94b2.jar" />
     </item>
     <item
@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="895415af00faf794b99c35455e51222fb7b095f2">
+        sha1="77d637365d73b27241eb13e71e38ccffc335f80d">
         <dex dex="C:\Users\Kunal\git\FarmerApp\app\build\intermediates\pre-dexed\debug\instant-run_7056903fdb86fa40019ed31b095ee056bf5ee228.jar" />
     </item>
     <item
